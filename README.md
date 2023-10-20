@@ -1,5 +1,8 @@
 # Bishokarma_kaur_midterm
 In Class Midterm Exam
+
+About Cats
+
 Cats are domesticated mammals known for their graceful and independent nature. Here are some key facts about cats:
 
 	1.	Species: The domestic cat, scientifically known as Felis catus, is a small carnivorous mammal. It is a member of the Felidae family.
